@@ -3,9 +3,12 @@ Hooks: Hooks come to the react  16.8 versions
 some hooks are hear 
 
 1. useState();
+  
+ const [state, setState]=useState([])
+
 2. useReducer();
 3. useReff();
-5. useContext();
+
 
 4. useEffect();
 
