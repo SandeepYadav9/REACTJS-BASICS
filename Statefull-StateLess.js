@@ -1,4 +1,4 @@
-Statefull - Classbased components are statefull because its contain some data and update them via render method 
+Statefull - Classbased components are statefull, inside render method return jsx elements 
 
 class App extends React.Components {
 render{
