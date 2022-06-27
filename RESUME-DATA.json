@@ -1,0 +1,124 @@
+{
+  "main": {
+    "name": "Sandeep Yadav",
+    "occupation": "ReactJs Devloper",
+    "description": "I eat, sleep, breathe, feel and thinking  React",
+    "image": "Profile.jpg",
+    "bio": "Hi there! My name is Sandeep Yadav! You might  know me as  React Devloper. I've been coding for over 1 years now. As a Full Stack developer . I belive Time-Management. Critical Thinking and Complex Problem Solving skils. I strongly believe in Team-Work. Ability to work under pressure",
+    "contactmessage": "Get in touch with me to be a part of the Self Employ !",
+    "email": "sandeepuit10@gmail.com/",
+    "phone": "+91 8400420939",
+    "address": {
+      "street": "120 Ahamadpur",
+      "city": "India",
+      "state": "Uttar Pradesh",
+      "zip": "222 180"
+    },
+    "website": "",
+    "resumedownload": "images/portfolio/resume.pdf",
+    "social": [     
+      {
+        "name": "github",
+        "url": "https://github.com/SandeepYadav9",
+        "className": "fa fa-github"
+      },
+      {
+        "name": "linkedin",
+        "url": "https://www.linkedin.com/in/sandeepyadav21",
+        "className": "fa fa-linkedin"
+      },
+      {
+        "name": "instagram",
+        "url": "https://www.instagram.com/sandeepuim44",
+        "className": "fa fa-instagram"
+      }
+     
+    ]
+  },
+  "resume": {
+    "skillmessage": "I am Passinate about Programing...",
+    "education": [
+      {
+        "school": "United Institute of Management - India",
+        "degree": "Masters's Degree, Computer Science",
+        "graduated": "July 2019",
+        "description": "Post Graduated with First Class Honours"
+      }
+    ],
+    "work": [
+      {
+        "company": "Raven Tech.",
+        "title": "ReactJs Devloper",
+        "years": "1 Year  March 2020 - 1 Year March 2021",
+        "description": "Software Devloper Full Time. "
+      }
+    ],
+    "skills": [
+      {
+        "name": "ReactJs",
+        "level": "90%"
+      },
+      {
+        "name": "HTML-5",
+        "level": "82%"
+      },
+      {
+        "name": "CSS3",
+        "level": "90%"
+      },
+      {
+        "name": "Java Scripts",
+        "level": "60%"
+      },
+       {
+        "name": "AJAX",
+        "level": "85%"
+      },
+      {
+      "name": "JSON",
+        "level": "60%"
+      },
+      {
+        "name": "NODEJS",
+        "level": "77%"
+      }
+    ]
+  },
+  "portfolio": {
+    "projects": [
+      {
+        "title": "Hotal-Booking (HTML, CSS,JS)",
+        "category": " Restorent",
+        "image": "hotals.png",
+        "url": "https://sandeepyadav9.github.io/HOTAL-BOOKING/"
+      },
+      {
+        "title": "Friends Name Lists",
+        "category": "Table",
+        "image": "friends.png",
+        "url": "https://sandeepyadav9.github.io/FRIENDS-NAME-TABLE/"
+      },
+       {
+        "title": "Resume()",
+        "category": "About me",
+        "image": "resums.png",
+        "url": ""
+      },
+      {
+        "title": "Food-order()",
+        "category": "",
+        "image": "foods.png",
+        "url": "https://sandeepyadav9.github.io/FOOD-BOOKING/"
+      }
+    ]
+  },
+  "testimonials": {
+    "testimonials": [
+      {
+        "text": "Ability to work under pressure ",
+        "user": "MS"
+      }
+    ]
+  }
+}
+
