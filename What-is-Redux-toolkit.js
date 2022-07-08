@@ -1,5 +1,5 @@
 /* Redux-  Redux is javaScripts library for managing centralizing application state
-        .it is most commonly used with libraries such ass React cLIENT-SIDE APPLICATION
+        .it is most commonly used with libraries such ass React CLIENT-SIDE APPLICATION
          Interface.
          
          Redux vs Context-api - 
