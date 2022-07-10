@@ -1,0 +1,3 @@
+/*
+FRAGMENTS-IN-REACT
+*/
